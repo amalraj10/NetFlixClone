@@ -1,0 +1,23 @@
+.bannerc{
+    padding-left: 3rem;
+    padding-top: 300px;
+    width: 45rem;
+}
+.bannerc h1{
+    font-size: 3.5rem;
+}
+.bannerc h2{
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+*{
+    color: rgb(255, 255, 255);
+}
+.more{
+    color: white;
+}
+
+.more:hover{
+    background-color: white;
+    color: black;
+}
